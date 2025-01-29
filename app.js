@@ -67,7 +67,7 @@ function sortearAmigo() {
     //    console.log( `<li> El amigo secreto sorteado es: ${listaAmigos[numeroSorteado-1]} </li>`);
 
     } else {
-        //Si el numeroAmigoses 0 no hay amigos para sortear 
+        //Si el numeroAmigos es 0, o no hay amigos para sortear 
         alert("No hay amigos para sortear,Por favor, inserte un nombre.");
     }
 }
