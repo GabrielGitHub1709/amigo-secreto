@@ -15,7 +15,7 @@ y lo despliega en pantalla.
 
 ## Versionamiento 📌
 
-Se uso [Git y GitHub](https://git-scm.com/book/es/v2) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/GabrielGitHub1709/amigo-secreto).
+Se uso [Git y GitHub](https://git-scm.com/book/es/v2) para el versionado. Para todas las versiones disponibles, mira el [Proyecto en este repositorio](https://github.com/GabrielGitHub1709/amigo-secreto).
 
 ## Participante ✒️
 
